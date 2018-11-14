@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">app5</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO "CANCHIS"</string>
+    <string name="tituloMision">MISION</string>
+    <string name="tituloVision">VISION</string>
+    <string name="conteMision">Somos una institución de educación superior tecnológica que impulsa el desarrollo local, 
+regional y nacional aportando servicios educativos de calidad en la formación de profesionales técnicos competitivos, innovadores y con valores éticos para responder a las expectativas y 
+necesidades del mercado laboral.</string>
+    <string name="conteVision">El instituto de educación superior tecnológico privado "canchis" al 2021 es una institución acreditada líder a nivel regional en la formación de profesionales técnicos competentes.</string>
+     <string name="button">Ingresar</string>
+    
+
+</resources>
